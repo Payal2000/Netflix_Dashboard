@@ -64,7 +64,7 @@ Netflix Titles dataset (publicly available):
 
 1. Clone this repository.
 2. Open the Tableau workbook (if included) or refer to `Netflix.png` for dashboard insights.
-3. Optionally run preprocessing scripts located in the `/scripts` directory.
+
 
 ## 📌 Use Cases
 
