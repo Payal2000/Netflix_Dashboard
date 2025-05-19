@@ -2,7 +2,7 @@
 
 This repository contains a comprehensive data visualization dashboard that analyzes Netflix's global content library. The visualizations were created to uncover trends related to genres, countries, ratings, and content distribution over time.
 
-![Netflix Dashboard](Netflix.png)
+![Netflix Dashboard](netflix.png)
 
 ## 🧾 Overview
 
