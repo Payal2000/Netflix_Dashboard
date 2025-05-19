@@ -46,10 +46,12 @@ This dashboard provides key insights into:
 - Major spike in content releases after 2014.  
 - Peak observed around **2019** for both Movies and TV Shows.
 
+ ![Netflix Dashboard](Netflix.png)
+
 ## 🧰 Tools Used
 
 - **Tableau** for dashboard creation and visualization
-- **Python / Pandas** *(optional)*: For initial data processing
+- **Excel**: For initial data processing
 - **Mapbox**: For rendering the geographical map
 
 ## 📚 Dataset Source
